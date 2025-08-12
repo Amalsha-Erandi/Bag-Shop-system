@@ -1,0 +1,4 @@
+Travel Bag1,Blue,Test,29.99
+1,Red,Tote Bags,1
+ATLAS,Yellow,Shoulder Bags,20000
+DSI,White,Shoulder Bags,2000
